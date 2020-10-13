@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{144:function(e,n,t){"use strict";t.r(n);var a=t(0),l=t.n(a),c=t(158),r=t(250),u=t(251),i=t(249),o=t(150);n.default=function(){return l.a.createElement(c.a,null,l.a.createElement(o.h,{title:"বাংলা ডেভেলপার চিটশিট",description:"ডেভেলপারদের জন্য, ডেভেলপারদের দ্বারা, মাতৃভাষা বাংলায় সবচেয়ে বড় চিটশিট ভান্ডার"}),l.a.createElement(r.a,null),l.a.createElement(u.a,null),l.a.createElement(i.a,null))}}}]);
-//# sourceMappingURL=component---src-pages-index-js-0936ab4689239b94a4a5.js.map
