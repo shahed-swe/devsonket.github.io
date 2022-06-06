@@ -240,9 +240,11 @@
           "definition":"আনস্টেজড (undo adds)",
           "code":"git reset HEAD index.html"
         },
+        {
           "definition":"ব্রাঞ্চ লোকালি রিমুভ করতে",
           "code":"git branch -d <branch name>"
         },
+        {
           "definition":"রিমোট ব্রাঞ্চ রিমুভ করতেে",
           "code":"git push origin --delete <branch name>"
         }
